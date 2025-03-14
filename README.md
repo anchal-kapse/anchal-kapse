@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anchal-kapse
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Mean/Mern Full Stack Development
+- 👀 I’m interested in Data Analysis
 - 📫 How to reach me www.linkedin.com/in/anchal-kapse
 
 <!---
